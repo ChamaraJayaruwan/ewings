@@ -2,6 +2,7 @@
   "vehicles": [
     {
       "id": 24286341,
+      /*Trim, Split & Send only !nullorempty*/
       "images": [
         "http://x-img.autorevo.com/2004-dodge-ram-2500-boerne-tx-6575336/640x640/2202773-0-revo.jpg",
         "http://x-img.autorevo.com/2004-dodge-ram-2500-boerne-tx-6575336/640x640/2202773-1-revo.jpg",
