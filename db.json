@@ -1,19 +1,21 @@
 {
   "vehicles": [
-  {
-    "vehicleId": 3653390,
-    "images": [
-      "https://datastore.autopublishers.net/vehicleimages/3653390/15939da7-1f87-4719-a0d7-12f782b22621.jpg",
-      "https://datastore.autopublishers.net/vehicleimages/3653390/17365916-f5d6-4eb6-ac7c-970de5fcf727.jpg",
-      "https://datastore.autopublishers.net/vehicleimages/3653390/d93a1062-71b8-458e-97a0-80b6bb3c5be0.jpg"
-    ]
-  },
-  {
-    "vehicleId": 3653391,
-    "images": [
-      "https://datastore.autopublishers.net/vehicleimages/3653391/2ffe7e16-9b34-4be3-8541-b4237a025794.jpg",
-      "https://datastore.autopublishers.net/vehicleimages/3653391/b63bbc2f-a598-4b29-a539-faccd11178d3.jpg"
-    ]
-  }
-]
+    {
+      "id": 3653390,
+      "vehicleId": 3653390,
+      "images": [
+        "https://datastore.autopublishers.net/vehicleimages/3653390/15939da7-1f87-4719-a0d7-12f782b22621.jpg",
+        "https://datastore.autopublishers.net/vehicleimages/3653390/17365916-f5d6-4eb6-ac7c-970de5fcf727.jpg",
+        "https://datastore.autopublishers.net/vehicleimages/3653390/d93a1062-71b8-458e-97a0-80b6bb3c5be0.jpg"
+      ]
+    },
+    {
+      "id": 3653391,
+      "vehicleId": 3653391,
+      "images": [
+        "https://datastore.autopublishers.net/vehicleimages/3653391/2ffe7e16-9b34-4be3-8541-b4237a025794.jpg",
+        "https://datastore.autopublishers.net/vehicleimages/3653391/b63bbc2f-a598-4b29-a539-faccd11178d3.jpg"
+      ]
+    }
+  ]
 }
